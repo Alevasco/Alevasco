@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Bem-vinde!  👋
 
 - 🔭 Hoje trabalho com tatuagem
 - 🌱 Estudando Mobile | Kotlin 
